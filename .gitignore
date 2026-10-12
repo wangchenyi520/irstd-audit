@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# audit outputs
+*.json
+!examples/*.json
+*.npz
+!examples/*.npz
+out/
+runs/
